@@ -335,7 +335,7 @@ img {
   align-items: center;
   width: 200px;
   height: 45px;
-  background-color: #17A2B8;
+  background-color: rgb(76, 160, 173);
   color: #FFFFFF;
   border: 1px solid #C0C0C0;
   cursor: pointer;
@@ -349,4 +349,7 @@ img {
 .home .content-pick .destination .btn:hover {
   background: #FFFFFF;
   color: #17A2B8;
+}
+html {
+  background-color: #b0bce2;
 }
